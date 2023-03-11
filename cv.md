@@ -7,7 +7,7 @@
 ## Contacts
 **Phone:** +18016006618<br>
 **E-mail:** natalas111222@gmail.com<br>
-Telegram: @nata_la <br>
+**Telegram:** @nata_la <br>
 [LinkedIn](https://www.linkedin.com/in/n-lash/)<br>
 [GitHub](https://github.com/n-lash)<br>
 
@@ -59,11 +59,11 @@ Kremenchuk, Ukraine
 
 ## Education
 * **Front-End Developer Certification**
-   -__Beetroot Academy - IT school__ <br>
-    _09/2019 - 04/2020_ <br>
-   Ukraine (Online)
+   - __Beetroot Academy - IT school__ <br>
+    _03/2020 - 08/2020_ <br>
+   Kremenchuk, Ukraine (Online)
 
-* **B.A. Economics and Organizational Management** (second high education)<br>
+* **B.A. Economics and Organizational Management** (second higher education)<br>
    - __Donetsk National Technical University – Horlivka Branch__<br>
    _10/2005 - 09/2007_<br>
    Horlivka, Ukraine
