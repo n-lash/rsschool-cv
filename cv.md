@@ -49,8 +49,8 @@ class Circle {
 ---- 
 
 ## Experience
-Last job:
-**JS Developer**
+Last job:<br>
+**JS Developer**<br>
 __Optimoz marketing agency__<br>
 _03/2021 - 07/2022_<br>
 Kremenchuk, Ukraine
